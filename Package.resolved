@@ -21,11 +21,11 @@
       },
       {
         "package": "Files",
-        "repositoryURL": "https://github.com/johnsundell/files.git",
+        "repositoryURL": "https://github.com/Pattio/Files",
         "state": {
-          "branch": null,
-          "revision": "d273b5b7025d386feef79ef6bad7de762e106eaf",
-          "version": "4.2.0"
+          "branch": "master",
+          "revision": "18e1a1e03694aa8cd18fc24f26de6ce30a25060e",
+          "version": null
         }
       },
       {

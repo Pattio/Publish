@@ -27,9 +27,8 @@ let package = Package(
             from: "0.9.0"
         ),
         .package(
-            name: "Files",
-            url: "https://github.com/johnsundell/files.git",
-            from: "4.0.0"
+            url: "https://github.com/Pattio/Files",
+            branch: "master"
         ),
         .package(
             name: "Codextended",
